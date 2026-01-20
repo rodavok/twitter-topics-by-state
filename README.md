@@ -1,6 +1,6 @@
 # Twitter Topics by State
 
-Project for EAS503. 
+Topic Identification and Geographic Data Visualization
 
 We collected tweets which included one or more of the terms:
   - Economy
